@@ -1,2 +1,0 @@
-# CodoACodo
-Trabajo integrador 
